@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.11.3]
+
+### Dependencies
+
+- Upgraded to `tauri-cli@2.11.3`
+
 ## \[2.11.2]
 
 ### Dependencies

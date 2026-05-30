@@ -1,5 +1,19 @@
 # Changelog
 
+## \[2.11.3]
+
+### Performance Improvements
+
+- [`800eade58`](https://www.github.com/tauri-apps/tauri/commit/800eade58d1c09d19f283d0a014b9e00bef9cc81) ([#15444](https://www.github.com/tauri-apps/tauri/pull/15444) by [@Legend-Master](https://www.github.com/tauri-apps/tauri/../../Legend-Master)) Reuse proxy reqwest client in mobile dev, improving the dev load speed
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.9.3`
+- Upgraded to `tauri-runtime@2.11.3`
+- Upgraded to `tauri-runtime-wry@2.11.3`
+- Upgraded to `tauri-macros@2.6.3`
+- Upgraded to `tauri-build@2.6.3`
+
 ## \[2.11.2]
 
 ### Bug Fixes
